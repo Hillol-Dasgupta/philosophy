@@ -2717,6 +2717,14 @@ p{
   padding-top: 10px;
 }
 
+.main-gallery{
+  padding-bottom: 30px;
+  
+}
+
+.view-pic{
+  border: 3px solid #ebebeb;
+}
 
 
 .team-list{
@@ -2885,3 +2893,105 @@ p{
   overflow: hidden;
   padding: 0 20px 0 20px;
   margin-bottom: 20px;
+}
+
+
+.contact-us-container {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+.contact-us-container h3 {
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+.contact-us-container p {
+    line-height: 28px;
+}
+
+.contact-form {
+    padding-top: 25px;
+    padding-bottom: 30px;
+    background: #E6E6E6;
+    border-radius: 5px;
+}
+
+.contact-form form {
+    margin-top: 25px;
+}
+
+.contact-form form .form-group {
+  margin-bottom: 20px;
+}
+
+.contact-form input[type="text"] { width: 95%; height: 34px; }
+.contact-form textarea { width: 95%; height: 170px; padding-top: 8px; padding-bottom: 8px; }
+.contact-form label { font-weight: 400; }
+.contact-form label .error-label { font-style: italic }
+
+
+.page-title-container {
+    margin: 0 auto;
+    padding: 35px 0 0 0;
+}
+
+.page-title {
+  padding-bottom: 35px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.page-title-container h1 {
+    display: inline;
+    margin-left: 10px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
+    vertical-align: middle;
+}
+
+.page-title-container p {
+    display: inline;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.page-title-container span {
+    font-size: 46px;
+    color: #ddd;
+    vertical-align: middle;
+}
+
+.team-single-head {
+    padding-bottom: 10px;
+}
+
+.teacher-img{
+  padding-top: 25px;
+}
+
+.teacher-img img{  
+  
+  width: 300px;
+}
+
+.teacher-info{
+  padding-top: 5px;
+}
+
+.p{
+  margin: 0 0 1.5em 0;
+}
+
+.dl-horizontal dt {
+    width: 90px;
+    padding-right: 10px;
+    text-align: left;
+    font-weight: 300;
+    color: #454545;
+    padding-bottom: 10px;
+}
+
+.dl-horizontal dd {
+    margin-left: 0px;
+    padding-bottom: 10px;
+}
